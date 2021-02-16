@@ -6,7 +6,7 @@
 
 // Menggunakan arrow
 
-const func = (pa,b) => {
+const func = (a,b) => {
         return a+b;
 };
 alert(func(5,4));
