@@ -2,26 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from "register-service-worker";
-import Login from './component/Login';
-// import { render } from '@testing-library/react';
-// import Statefull from './component/Statefull';
-// import Stateless from './component/Stateless';
-// import App from './App';
-// import List from './component/List';
-//import Test from './component/Test';
-//import HelloComponent from './component/HelloComponent';
-//import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+// import MahasiswaPost from './component/mahasiswa/MahasiswaPost';
+import Blogpost from './component/container/blogpost/Blogpost';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Login/>
-    {/* <Statefull/>
-    <Stateless/> */}
-    {/* <App/> */}
-    {/* <Test/> */}
-    {/* <HelloComponent/> */}
+    <React.StrictMode>
+    <Blogpost/>
     </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('content')
 );
 
 // // If you want to start measuring performance in your app, pass a function
