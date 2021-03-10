@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from "register-service-worker";
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import MahasiswaPost from './component/mahasiswa/MahasiswaPost';
-import Blogpost from './component/container/blogpost/Blogpost';
+// import Blogpost from './component/container/blogpost/Blogpost';
+import MahasiswaPost from './component/mahasiswa/MahasiswaPost';
 
 ReactDOM.render(
     <React.StrictMode>
-    <Blogpost/>
+    <MahasiswaPost/>
     </React.StrictMode>,
   document.getElementById('content')
 );
