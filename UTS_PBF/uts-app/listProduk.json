@@ -1,0 +1,85 @@
+{
+    "Post": [
+      {
+        "id": 1,
+        "namaproduk": "Xiaomi MIJIA Smart Small Rice Cooker 1.6L",
+        "harga": 599000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/11/13/be866e58-4821-4276-af35-f7b9aa1cce71.jpg",
+        "stock": 1
+      },
+      {
+        "id": 2,
+        "namaproduk": "Miyako MCM 508 SBC Rice Cooker 1.8 Liter",
+        "harga": 213900,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/10/28/2615993/2615993_dc398a61-9385-43b8-a216-09362239de12.jpg",
+        "stock": 1
+      },
+      {
+        "id": 3,
+        "namaproduk": "BOLDe Super Cook Less Sugar",
+        "harga": 575000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/25/50ff4ff3-a5b0-419a-a6b8-2a3eea442ca3.jpg",
+        "stock": 1
+      },
+      {
+        "id": 4,
+        "namaproduk": "Philips Digital Rice Cooker 1.8L",
+        "harga": 669000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/attachment/2021/4/3/65580410/65580410_bd5f65a4-cdc1-4b96-a594-f75a8428ef51.jpg",
+        "stock": 1
+      },
+      {
+        "id": 5,
+        "namaproduk": "DR DUCK LOW CARB RICE COOKER",
+        "harga": 2599000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/11/27/53ca1011-39b2-49cd-8f8d-6306f90ce210.jpg",
+        "stock": 1
+      },
+      {
+        "id": 6,
+        "namaproduk": "PHILIPS HD3138 Premium Plus Rice Cooker",
+        "harga": 259900,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/4/26/3818493/3818493_2f005046-6e71-45a5-844d-e6e5b69f72c9_700_700",
+        "stock": 1
+      },
+      {
+        "id": 7,
+        "namaproduk": "Miyako Mantab",
+        "harga": 199000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/25/412512a2-9718-4fe0-b819-5ef1aa998c28.jpg",
+        "stock": 1
+      },
+      {
+        "id": 8,
+        "namaproduk": "Yong Ma the MagicJar",
+        "harga": 1090000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/26/46e7bb6c-4f6d-4652-b711-64ceb4f94a8c.jpg",
+        "stock": 1
+      },
+      {
+        "id": 9,
+        "namaproduk": "Cosmos Traveller Good",
+        "harga": 259000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/5/18/14010622/14010622_a374167b-15ec-483e-922a-4cf5ce45df17_700_700",
+        "stock": 1
+      },
+      {
+        "id": 10,
+        "namaproduk": "Tap Tap Mantab MagicJar",
+        "harga": 159000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/attachment/2021/1/25/65580410/65580410_9682763d-1f21-45d1-8637-91aa8ea462c2.jpg",
+        "stock": 1
+      }
+    ]
+  ,
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

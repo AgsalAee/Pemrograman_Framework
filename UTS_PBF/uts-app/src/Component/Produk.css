@@ -1,0 +1,73 @@
+.barang {
+  width: 650px;
+  padding: 20px;
+  /* border: 1px solid black; */
+  border-radius: 4px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  display: inline-block;
+  background-color: #ececec;
+  /* background-color: #ffc276; */
+  /* color: white; */
+}
+
+.gambar-barang {
+  height: 150px;
+  width: 350px;
+  margin-right: 20px;
+  margin-left: 20px;
+  /* float:left; */
+  transition: transform 0.2s;
+}
+
+.gambar-barang img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.barang .konten-barang .gambar-barang:hover img {
+  transform: scale(1.25);
+}
+
+.konten-barang {
+  display: flex;
+  /* justify-content: space-between; */
+  /* float:left; */
+  /* width:100%; */
+}
+
+.konten-barang div.judul-barang {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.konten-barang .isi-barang {
+  font-size: 13px;
+  margin-right: 20px;
+  width: 100%;
+}
+
+.isi-barang p {
+  margin-bottom: 0;
+}
+
+#id-brg {
+  font-size: 13px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.isi-barang #nama-brg {
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.isi-barang #harga-brg {
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
