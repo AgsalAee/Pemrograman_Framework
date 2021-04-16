@@ -1,0 +1,37 @@
+input[type='checkbox'] {
+  margin-left: 30%;
+}
+
+h3 {
+  margin-left: 42.5%;
+}
+h2 {
+  text-align: center;
+}
+form {
+  border: 5px;
+  margin-left: 35%;
+  width: 350px;
+}
+input[type='text'],
+input[type='password'] {
+  margin-left: 5%;
+  border: 2px;
+}
+.btnSubmit {
+  background-color: green;
+  color: white;
+  width: 100%;
+  padding: 14px 20px;
+  margin: 8px 0px;
+}
+.btnCancel {
+  background-color: red;
+  width: auto;
+  padding: 14px 20px;
+  margin: 8px 0px;
+  margin-left: 35%;
+}
+.container {
+  padding: 16px;
+}
