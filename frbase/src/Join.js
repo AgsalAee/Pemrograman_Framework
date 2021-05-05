@@ -61,7 +61,7 @@ const Join = () => {
                     Join With Google
                 </button>
 
-                <button type="submit">Login</button>
+                <button type="submit">Join</button>
 
                 <span>{error}</span>
             </form>
